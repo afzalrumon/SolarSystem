@@ -5,5 +5,6 @@ public class Main {
         FactorX.sun=1;
         FactorX.moon=3;
         FactorX.planet=2;
+        osssuudgsdugcyhc
     }
 }
